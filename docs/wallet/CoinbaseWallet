@@ -1,0 +1,33 @@
+---
+sidebar_label: Coinbase Wallet
+hide_table_of_contents: false
+---
+
+# How to use [Coinbase Wallet](https://www.coinbase.com/wallet/developers) for BNB Smart Chain on your mobile or desktop
+## Install
+### 1. Get the Mobile App from Andriod Play Store or iOS App Store:  https://www.coinbase.com/wallet/getting-started-mobile, or the [Chrome Browser extension](https://www.coinbase.com/wallet/getting-started-extension)
+
+### 2. Open Coinbase Wallet on your mobile or browser, backup Seed Phrase
+
+## Setup Your Coinbase Wallet for BNB Chain
+### 1. Set up BNB Chain Testnet Network on Coinbase Wallet
+####On Coinbase Wallet (desktop) you can switch to BNB Chain Mainnet with below steps:
+- Open the settings from the top right
+- Enable the 'Developer Mode' checkbox
+- In settings under 'Default Network' you will find BNB Chain Mainnet or BNB Chain Testnet
+
+####For Coinbase Wallet (mobile):
+- Open Settings in the bottom right
+- Open Default Network
+- Switch Network to BNB Chain Mainnet BNB or Chain Testnet Testnet
+
+
+It’s ready, and now you can get some testnet BNB from the faucet.
+
+## Get Testnet Fund
+### 1. Copy your address.
+
+### 2. Go to <https://testnet.binance.org/faucet-smart/>
+
+
+
